@@ -7,19 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020- Shinya YAGINUMA</copyright>
-    <lastBuildDate>Sat, 11 Jul 2020 18:04:46 +0900</lastBuildDate>
     
 	<atom:link href="https://shyaginuma.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>https://shyaginuma.github.io/portfolio/posts/test/</link>
-      <pubDate>Sat, 11 Jul 2020 18:04:46 +0900</pubDate>
-      
-      <guid>https://shyaginuma.github.io/portfolio/posts/test/</guid>
-      <description>test</description>
-    </item>
     
     <item>
       <title>About</title>
@@ -27,7 +17,10 @@
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
       <guid>https://shyaginuma.github.io/portfolio/about/</guid>
-      <description></description>
+      <description>Shinya Yaginuma
+Data Analyst, mercari
+I&amp;rsquo;m in the Product Analytics team at mercari, Japanese largest CtoC online marketplace service.
+I analyze data &amp;amp; discover insights, design &amp;amp; run large online experiments, and manage some tools to improve experimentation quality of organization.</description>
     </item>
     
   </channel>
