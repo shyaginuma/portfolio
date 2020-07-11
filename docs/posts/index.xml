@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on yaginuuun blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on yaginuuun blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020- Shinya YAGINUMA</copyright>
+    <lastBuildDate>Sat, 11 Jul 2020 18:04:46 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Sat, 11 Jul 2020 18:04:46 +0900</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>test</description>
+    </item>
+    
+  </channel>
+</rss>
