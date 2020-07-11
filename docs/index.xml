@@ -12,15 +12,24 @@
     
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://shyaginuma.github.io/portfolio/about/</link>
-      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://shyaginuma.github.io/portfolio/about/</guid>
       <description>Shinya Yaginuma
 Data Analyst, mercari
 I&amp;rsquo;m in the Product Analytics team at mercari, Japanese largest CtoC online marketplace service.
 I analyze data &amp;amp; discover insights, design &amp;amp; run large online experiments, and manage some tools to improve experimentation quality of organization.</description>
+    </item>
+    
+    <item>
+      <title>Work history</title>
+      <link>https://shyaginuma.github.io/portfolio/work_history/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shyaginuma.github.io/portfolio/work_history/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 ---
-title: "About"
-date: 2019-04-19T21:37:58+05:30
+title: "About me"
+date: 2020-07-11
 type: "page"
 ---
 
@@ -16,6 +16,8 @@ I analyze data & discover insights, design & run large online experiments, and m
 
 * [2020.02 - Present]  Data Analyst, mercari
 * [2018.04 - 2020.01]  Data Scientist, Globis
+
+If you want to know more, please see [**here**](https://shyaginuma.github.io/portfolio/work_history).
 
 ### Education
 

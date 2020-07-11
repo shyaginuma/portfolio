@@ -16,6 +16,7 @@ summaryLength = 20
     featherIconsCDN = true
     customCSS = "css/custom.css"
     customDarkCSS = "css/custom-dark.css"
+    favicon = "icons/myicon.png"
 
 [[menu.main]]
 name = "home"
@@ -23,19 +24,24 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "About me"
 url = "/about"
 weight = 2
 
 [[menu.main]]
-name = "posts"
-url = "/posts"
+name = "Work history"
+url = "/work_history"
 weight = 3
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 4
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 5
 
 [[params.social]]
 name = "Github"
@@ -51,6 +57,11 @@ url = "https://twitter.com/yaginuuun"
 name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/shinya-yaginuma"
+
+[[params.social]]
+name = "Mail"
+icon = "mail"
+url = "mailto:yaginuuun@gmail.com"
 
 [taxonomies]
    tag = "tags"
