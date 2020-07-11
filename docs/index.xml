@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>yaginuuun blog</title>
-    <link>http://example.org/</link>
+    <link>https://shyaginuma.github.io/portfolio/</link>
     <description>Recent content on yaginuuun blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020- Shinya YAGINUMA</copyright>
     <lastBuildDate>Sat, 11 Jul 2020 18:04:46 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shyaginuma.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://example.org/posts/test/</link>
+      <link>https://shyaginuma.github.io/portfolio/posts/test/</link>
       <pubDate>Sat, 11 Jul 2020 18:04:46 +0900</pubDate>
       
-      <guid>http://example.org/posts/test/</guid>
+      <guid>https://shyaginuma.github.io/portfolio/posts/test/</guid>
       <description>test</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://shyaginuma.github.io/portfolio/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://shyaginuma.github.io/portfolio/about/</guid>
       <description></description>
     </item>
     
