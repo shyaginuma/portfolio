@@ -1,0 +1,56 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "yaginuuun blog"
+theme = "ezhil"
+publishDir = "docs" # github pages用の設定
+
+copyright = "© 2020- Shinya YAGINUMA"
+
+# ブログの設定
+paginate = 10
+summaryLength = 20
+
+[params]
+    subtitle = ""
+    mainSections = ["posts"]
+    featherIconsCDN = true
+    customCSS = "css/custom.css"
+    customDarkCSS = "css/custom-dark.css"
+
+[[menu.main]]
+name = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "posts"
+url = "/posts"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/shyaginuma"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/yaginuuun"
+
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/shinya-yaginuma"
+
+[taxonomies]
+   tag = "tags"
