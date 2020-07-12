@@ -11,6 +11,9 @@ Data Analyst, mercari
 I'm in the [Product Analytics team](https://careers.mercari.com/jp/job-categories/analyst/) at mercari, Japanese largest C2C online marketplace service.  
 I analyze data & discover insights, design & run large online experiments, and manage some tools to improve experimentation quality of organization. I'm strongly interested in improving product which makes society better by data.
 
+* Interest: AB Testing, Causal Inference, Bayesian Modeling
+* Like: tennis, coffee :coffee:
+
 ## Experience
 
 ### Work

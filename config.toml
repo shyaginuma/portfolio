@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "yaginuuun blog"
 theme = "ezhil"
 publishDir = "docs" # github pages用の設定
+enableEmoji = true
 
 copyright = "© 2020- Shinya YAGINUMA"
 googleAnalytics = "UA-172479959-1"
