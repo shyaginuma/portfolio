@@ -2,6 +2,7 @@
 title: "Work history"
 date: 2020-07-12
 type: "page"
+disqus: false
 ---
 
 ## Data Analyst, mercari

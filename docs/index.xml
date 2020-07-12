@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020- Shinya YAGINUMA</copyright>
+    <lastBuildDate>Sun, 12 Jul 2020 21:12:56 +0900</lastBuildDate>
     
 	<atom:link href="https://shyaginuma.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://shyaginuma.github.io/portfolio/posts/test/</link>
+      <pubDate>Sun, 12 Jul 2020 21:12:56 +0900</pubDate>
+      
+      <guid>https://shyaginuma.github.io/portfolio/posts/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Work history</title>

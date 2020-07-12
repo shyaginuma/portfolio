@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shyaginuma.github.io/portfolio/posts/</loc>
+    <lastmod>2020-07-12T21:12:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shyaginuma.github.io/portfolio/posts/test/</loc>
+    <lastmod>2020-07-12T21:12:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shyaginuma.github.io/portfolio/</loc>
+    <lastmod>2020-07-12T21:12:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shyaginuma.github.io/portfolio/work_history/</loc>
     <lastmod>2020-07-12T00:00:00+00:00</lastmod>
   </url>
@@ -14,10 +29,6 @@
   
   <url>
     <loc>https://shyaginuma.github.io/portfolio/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shyaginuma.github.io/portfolio/</loc>
   </url>
   
 </urlset>
