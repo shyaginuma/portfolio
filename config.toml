@@ -5,6 +5,7 @@ theme = "ezhil"
 publishDir = "docs" # github pages用の設定
 
 copyright = "© 2020- Shinya YAGINUMA"
+googleAnalytics = "UA-172479959-1"
 
 # ブログの設定
 paginate = 10
